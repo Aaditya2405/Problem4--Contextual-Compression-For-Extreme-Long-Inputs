@@ -1,0 +1,436 @@
+{
+    "metadata": {
+        "source_file": "sample.txt",
+        "document_type": "text",
+        "total_chunks": 101
+    },
+    "compressed_representation": {
+        "section_summaries": [
+            {
+                "chunk_id": 1,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 2,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 3,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 4,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 5,
+                "summary": "States when carrying out activities which fall within the scope of Chapter 2 of Title V of the TEU;\nby a natural person in the course of a purely personal or household activity;\nby competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences."
+            },
+            {
+                "chunk_id": 6,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 7,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 8,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 9,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 10,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 11,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 12,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 13,
+                "summary": "ect\u2019); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, ec."
+            },
+            {
+                "chunk_id": 14,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 15,
+                "summary": "omated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction;\n\u2018restriction of processing\u2019."
+            },
+            {
+                "chunk_id": 16,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 17,
+                "summary": "l data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person\u2019s performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;\n\u2018pseudonymisation\u2019 m."
+            },
+            {
+                "chunk_id": 18,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 19,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 20,
+                "summary": "which are accessible according to specific criteria, whether centralised, decentralised or dispersed on a functional or geographical basis;\n\u2018controller\u2019 means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means o."
+            },
+            {
+                "chunk_id": 21,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 22,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 23,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 24,
+                "summary": "garded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing;\n\u2018third party\u2019 means a natural or legal person, public authority, agency or body other than the data subject, co."
+            },
+            {
+                "chunk_id": 25,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 26,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 27,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 28,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 29,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 30,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 31,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 32,
+                "summary": "n in another establishment of the controller in the Union and the latter establishment has the power to have such decisions implemented, in which case the establishment having taken such decisions is to be considered to be the main establishment;\nas regards a processor with establishments in more th."
+            },
+            {
+                "chunk_id": 33,
+                "summary": "regards a processor with establishments in more than one Member State, the place of its central administration in the Union, or, if the processor has no central administration in the Union, the establishment of the processor in the Union where the main processing activities in the context of the act."
+            },
+            {
+                "chunk_id": 34,
+                "summary": "in processing activities in the context of the activities of an establishment of the processor take place to the extent that the processor is subject to specific obligations under this Regulation;\n\u2018representative\u2019 means a natural or legal person established in the Union who, designated by the contro."
+            },
+            {
+                "chunk_id": 35,
+                "summary": "blished in the Union who, designated by the controller or processor in writing pursuant to Article-27, represents the controller or processor with regard to their respective obligations under this Regulation;\n\u2018enterprise\u2019 means a natural or legal person engaged in an economic activity, irrespective."
+            },
+            {
+                "chunk_id": 36,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 37,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 38,
+                "summary": "third countries within a group of undertakings, or group of enterprises engaged in a joint economic activity;\n\u2018supervisory authority\u2019 means an independent public authority which is established by a Member State pursuant to Article-51;\n\u2018supervisory authority concerned\u2019 means a supervisory authority w."
+            },
+            {
+                "chunk_id": 39,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 40,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 41,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 42,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 43,
+                "summary": "This section discusses risk management and related safeguards."
+            },
+            {
+                "chunk_id": 44,
+                "summary": "This section discusses risk management and related safeguards."
+            },
+            {
+                "chunk_id": 45,
+                "summary": "s defined in point (b) of Article-1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council (1);\n\u2018international organisation\u2019 means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agree."
+            },
+            {
+                "chunk_id": 46,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 47,
+                "summary": "ta subject (\u2018lawfulness, fairness and transparency\u2019);\ncollected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes."
+            },
+            {
+                "chunk_id": 48,
+                "summary": "terest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (\u2018purpose limitation\u2019);\nadequate, relevant and limited to what is necessary in relation to the purposes for which they ar."
+            },
+            {
+                "chunk_id": 49,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 50,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 51,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 52,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 53,
+                "summary": "onal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (\u2018integrity and confidentiality\u2019)."
+            },
+            {
+                "chunk_id": 54,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 55,
+                "summary": "performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;\nprocessing is necessary for compliance with a legal obligation to which the controller is subject;\nprocessing is necessary in order to protect."
+            },
+            {
+                "chunk_id": 56,
+                "summary": "bject;\nprocessing is necessary in order to protect the vital interests of the data subject or of another natural person;\nprocessing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;\nprocessing is necessary."
+            },
+            {
+                "chunk_id": 57,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 58,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 59,
+                "summary": "ay maintain or introduce more specific provisions to adapt the application of the rules of this Regulation with regard to processing for compliance with points (c) and (e) of paragraph 1 by determining more precisely specific requirements for the processing and other measures to ensure lawful and fa."
+            },
+            {
+                "chunk_id": 60,
+                "summary": "cessing and other measures to ensure lawful and fair processing including for other specific processing situations as provided for in Chapter IX."
+            },
+            {
+                "chunk_id": 61,
+                "summary": "n law; or Member State law to which the controller is subject."
+            },
+            {
+                "chunk_id": 62,
+                "summary": "sk carried out in the public interest or in the exercise of official authority vested in the controller."
+            },
+            {
+                "chunk_id": 63,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 64,
+                "summary": "riods; and processing operations and processing procedures, including measures to ensure lawful and fair processing such as those for other specific processing situations as provided for in Chapter IX."
+            },
+            {
+                "chunk_id": 65,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 66,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 67,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 68,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 69,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 70,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 71,
+                "summary": "nt is given in the context of a written declaration which also concerns other matters, the request for consent shall be presented in a manner which is clearly distinguishable from the other matters, in an intelligible and easily accessible form, using clear and plain language."
+            },
+            {
+                "chunk_id": 72,
+                "summary": "g clear and plain language."
+            },
+            {
+                "chunk_id": 73,
+                "summary": "t affect the lawfulness of processing based on consent before its withdrawal."
+            },
+            {
+                "chunk_id": 74,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 75,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 76,
+                "summary": "east 16 years old."
+            },
+            {
+                "chunk_id": 77,
+                "summary": "or a lower age for those purposes provided that such lower age is not below 13 years."
+            },
+            {
+                "chunk_id": 78,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 79,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 80,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 81,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 82,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 83,
+                "summary": "agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;\nprocessing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapa."
+            },
+            {
+                "chunk_id": 84,
+                "summary": "e the data subject is physically or legally incapable of giving consent;\nprocessing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on."
+            },
+            {
+                "chunk_id": 85,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 86,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 87,
+                "summary": "or whenever courts are acting in their judicial capacity;\nprocessing is necessary for reasons of substantial public interest, on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and s."
+            },
+            {
+                "chunk_id": 88,
+                "summary": "to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;\nprocessing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis."
+            },
+            {
+                "chunk_id": 89,
+                "summary": "orking capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law or pursuant to contract with a health professional and subject to the conditions and safeg."
+            },
+            {
+                "chunk_id": 90,
+                "summary": "ofessional and subject to the conditions and safeguards referred to in paragraph 3;\nprocessing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care a."
+            },
+            {
+                "chunk_id": 91,
+                "summary": "h standards of quality and safety of health care and of medicinal products or medical devices, on the basis of Union or Member State law which provides for suitable and specific measures to safeguard the rights and freedoms of the data subject, in particular professional secrecy;\nprocessing is neces."
+            },
+            {
+                "chunk_id": 92,
+                "summary": "rticular professional secrecy;\nprocessing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article-89(1) based on Union or Member State law which shall be proportionate to the aim pursued, respect the es."
+            },
+            {
+                "chunk_id": 93,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 94,
+                "summary": "may be processed for the purposes referred to in point (h) of paragraph 2 when those data are processed by or under the responsibility of a professional subject to the obligation of professional secrecy under Union or Member State law or rules established by national competent bodies or by another."
+            },
+            {
+                "chunk_id": 95,
+                "summary": "lished by national competent bodies or by another person also subject to an obligation of secrecy under Union or Member State law or rules established by national competent bodies."
+            },
+            {
+                "chunk_id": 96,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 97,
+                "summary": "This section discusses security and protection measures."
+            },
+            {
+                "chunk_id": 98,
+                "summary": "This section discusses processing of personal data."
+            },
+            {
+                "chunk_id": 99,
+                "summary": "data do not or do no longer require the identification of a data subject by the controller, the controller shall not be obliged to maintain, acquire or process additional information in order to identify the data subject for the sole purpose of complying with this Regulation."
+            },
+            {
+                "chunk_id": 100,
+                "summary": "ying with this Regulation."
+            },
+            {
+                "chunk_id": 101,
+                "summary": "ble."
+            }
+        ],
+        "key_facts": [],
+        "risks": [],
+        "exceptions": []
+    },
+    "explainability": {
+        "why_included": "High-signal sections containing definitions, risks, safeguards, or governance-related rules were retained.",
+        "what_was_removed": "Removed descriptive, redundant, and low-signal text while preserving legal meaning",
+        "traceability": "Each summary and risk item is traceable using source_chunk identifiers."
+    },
+    "compression_metrics": {
+        "original_chars": 25223,
+        "compressed_chars": 12685,
+        "compression_ratio": 0.5,
+        "retention": 0.5
+    },
+    "qa": {
+        "question": "What does the document say about risk management?",
+        "answer": "This section discusses risk management and related safeguards.",
+        "why": "Matched 2 key terms from the question",
+        "source_chunk": 43,
+        "confidence": 0.6
+    }
+}
